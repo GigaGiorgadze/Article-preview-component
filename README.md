@@ -1,3 +1,6 @@
+## you can view page live at following URL: https://gigagiorgadze.github.io/Article-preview-component/
+
+
 # Frontend Mentor - Article preview component
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
