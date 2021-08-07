@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 # Frontend Mentor - Article preview component solution
-=======
 ## you can view page live at following URL: https://gigagiorgadze.github.io/Article-preview-component/
 
 
 # Frontend Mentor - Article preview component
->>>>>>> 9b5444903e554b0795c8877400772d51ce876d78
 
 This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
